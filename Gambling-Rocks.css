@@ -1,0 +1,202 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/Diseosinttulo8.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 709px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  width: 749px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 869px;
+  min-height: 448px;
+  height: auto;
+  margin: 131px auto 31px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 60px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 116px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-radius: 50px;
+  letter-spacing: 2px;
+  font-weight: 600;
+  font-size: 1.125rem;
+  margin: 30px 277px 0 auto;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  border-radius: 50px;
+  letter-spacing: 2px;
+  font-weight: 600;
+  font-size: 1.125rem;
+  margin: -48px 0 0 auto;
+}
+
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  border-radius: 50px;
+  letter-spacing: 2px;
+  font-weight: 600;
+  font-size: 1.125rem;
+  margin: -48px auto 0 0;
+}
+
+.u-section-1 .u-group-2 {
+  width: 570px;
+  min-height: 140px;
+  height: auto;
+  margin: 22px auto 0 79px;
+}
+
+.u-section-1 .u-text-3 {
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 1.25rem;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 585px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 49px;
+    padding-right: 49px;
+  }
+
+  .u-section-1 .u-group-2 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 16px;
+    margin-right: 16px;
+    position: relative;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 448px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 188px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 13px;
+    margin-right: 13px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 336px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    width: 540px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 28px;
+    padding-right: 28px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 48px;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: 520px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 9px;
+    margin-right: 9px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 212px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    width: 340px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: 320px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 705px;
+}
+
+.u-section-2 .u-custom-html-1 {
+  margin-bottom: 60px;
+  height: auto;
+  min-height: 601px;
+  margin-top: 38px;
+}
