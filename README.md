@@ -1,2 +1,0 @@
-# GAMBLING COINS
- 
